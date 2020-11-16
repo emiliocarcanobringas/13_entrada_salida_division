@@ -1,1 +1,1 @@
-# 13_entrada_salida_division
+Este programa lee la entrada de dos números, y muestra en la salida estándar el resultado de la división de estos, para ello se han asignado 3 variables de tipo float y el operador aritmético de división.
